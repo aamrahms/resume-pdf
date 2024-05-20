@@ -1,0 +1,286 @@
+{
+  "data":{
+  "address": null,
+  "summary": "I'm a dedicated web developer with a passion for pushing my boundaries and constantly…",
+  "articles": [],
+  "headline": null,
+  "username": "aamraha",
+  "full_name": "Aamrah .",
+  "languages": ["English", "Hindi", "Urdu", "Arabic"],
+  "photo_url": "https://static.licdn.com/aero-v1/sc/h/bgaqk7x4ntjz0wg67d8u723eb",
+  "activities": [],
+  "educations": [
+    {
+      "end_at": "2023-05-15 00:00:00",
+      "school": "Northeastern University",
+      "address": null,
+      "location": null,
+      "start_at": "2021-09-15 00:00:00",
+      "school_url": "https://www.linkedin.com/school/northeastern-university/",
+      "description": "Courses : <br>1. Application Engineering and Development<br>2. Web Design Engineering and User Experience<br>3. Web Methods and Tools<br>4. Software Quality Control and Management<br>5. Data Science Engineering Methods & Tools<br>6. Development and Operations of Software Applications<br>7. Design Patterns<br>8. Advanced Big data Applications and Indexing"
+    },
+    {
+      "end_at": "2018-05-15 00:00:00",
+      "school": null,
+      "address": null,
+      "location": null,
+      "start_at": "2014-05-15 00:00:00",
+      "school_url": null,
+      "description": null
+    }
+  ],
+  "experiences": [
+    {
+      "address": {
+        "city": "Boston",
+        "state": "Massachusetts",
+        "county": "Suffolk County",
+        "country": "United States",
+        "country_code": "US"
+      },
+      "company": "Biodiversity for a Livable Climate",
+      "end_date": null,
+      "location": "Boston, Massachusetts, United States",
+      "start_at": null,
+      "company_url": "https://www.linkedin.com/company/bio4climate",
+      "description": null
+    },
+    {
+      "address": {
+        "city": null,
+        "state": null,
+        "county": null,
+        "country": "United States",
+        "country_code": "US"
+      },
+      "company": null,
+      "end_date": null,
+      "location": "United States",
+      "start_at": null,
+      "company_url": null,
+      "description": null
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "Massachusetts",
+        "county": "Suffolk County",
+        "country": "United States",
+        "country_code": "US"
+      },
+      "company": null,
+      "end_date": null,
+      "location": "Boston, Massachusetts, United States",
+      "start_at": null,
+      "company_url": null,
+      "description": null
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "Massachusetts",
+        "county": "Suffolk County",
+        "country": "United States",
+        "country_code": "US"
+      },
+      "company": null,
+      "end_date": null,
+      "location": "Boston, Massachusetts, United States",
+      "start_at": null,
+      "company_url": null,
+      "description": null
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "Massachusetts",
+        "county": "Suffolk County",
+        "country": "United States",
+        "country_code": "US"
+      },
+      "company": null,
+      "end_date": null,
+      "location": "Boston, Massachusetts, United States",
+      "start_at": null,
+      "company_url": null,
+      "description": null
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "Massachusetts",
+        "county": "Suffolk County",
+        "country": "United States",
+        "country_code": "US"
+      },
+      "company": null,
+      "end_date": null,
+      "location": "Boston, Massachusetts, United States",
+      "start_at": null,
+      "company_url": null,
+      "description": null
+    },
+    {
+      "address": {
+        "city": "Boston",
+        "state": "Massachusetts",
+        "county": "Suffolk County",
+        "country": "United States",
+        "country_code": "US"
+      },
+      "company": null,
+      "end_date": null,
+      "location": "Boston, Massachusetts, United States",
+      "start_at": null,
+      "company_url": null,
+      "description": null
+    },
+    {
+      "address": {
+        "city": "Pune City",
+        "state": "Maharashtra",
+        "county": null,
+        "country": "India",
+        "country_code": "IN"
+      },
+      "company": null,
+      "end_date": null,
+      "location": "Pune, Maharashtra, India",
+      "start_at": null,
+      "company_url": null,
+      "description": null
+    },
+    {
+      "address": {
+        "city": "Pune City",
+        "state": "Maharashtra",
+        "county": null,
+        "country": "India",
+        "country_code": "IN"
+      },
+      "company": null,
+      "end_date": null,
+      "location": "Pune, Maharashtra, India",
+      "start_at": null,
+      "company_url": null,
+      "description": null
+    },
+    {
+      "address": {
+        "city": "Pune City",
+        "state": "Maharashtra",
+        "county": null,
+        "country": "India",
+        "country_code": "IN"
+      },
+      "company": null,
+      "end_date": null,
+      "location": "Pune, Maharashtra, India",
+      "start_at": null,
+      "company_url": null,
+      "description": null
+    }
+  ],
+  "profile_url": "https://www.linkedin.com/in/aamraha",
+  "website_url": null,
+  "background_url": "https://media.licdn.com/dms/image/D4E16AQGf_jnYexMkcw/profile-displaybackgroundimage-shrink_200_800/0/1693874400758?e=2147483647&v=beta&t=Z-QUqL-gmUR6yvtWFwEY8AWKHHdaktLCcbQXclbGqdU",
+  "follower_count": 1232,
+  "recommendations": [
+    {
+      "text": "I highly recommend Aamrah as a software developer/engineer. I have worked with her in my capacity as UI Architect and manager of the UI design team at Bindable. While she was an intern for a short period at Bindable, Aamrah demonstrated her value as an asset. \n\nAs an employee, she is able to learn, perform and innovate in every project successfully.  She is passionate, curious, knowledgeable, and interested in learning the technicalities and intricacies of building successful software…\n            \n\n    \n    \n\n    \n        Show more",
+      "full_name": "Gabriel Miranda"
+    },
+    {
+      "text": "Aamrah interned with Bindable and quickly made herself a valuable member of the front-end development team. She took on important projects and always looked for areas to increase her knowledge in and outside of the front-end space. She was a great team player working on a large project with several different roles at the company.  We really enjoyed having her on the team at Bindable and know she'll be doing great work where ever she goes.",
+      "full_name": "Mike Brennan"
+    }
+  ],
+  "section_courses": [],
+  "section_patents": [],
+  "connection_count": 500,
+  "section_projects": [
+    {
+      "url": "drive_web&ouid",
+      "title": "Twitter Application deployment on AWS",
+      "end_at": "2022-12-15 00:00:00",
+      "start_at": "2022-09-15 00:00:00",
+      "description": "Tech Stack : AWS ECS, AWS Cloudwatch Insights, Git, Docker, MongoDB"
+    },
+    {
+      "url": "public_profile_project-title",
+      "title": "Readers Paradise",
+      "end_at": "2022-05-15 00:00:00",
+      "start_at": "2022-01-15 00:00:00",
+      "description": "Tech Stack : Spring Boot, Hibernate, MySQL,Rest API, BootStrap"
+    },
+    {
+      "url": "id.p1?trk",
+      "title": "Event Scheduler",
+      "end_at": "2021-12-15 00:00:00",
+      "start_at": "2021-09-15 00:00:00",
+      "description": "Tech Stack : ReactJS, Redux, SASS, MaterialUI, Axios, REST API, Express, NodeJS, MongoDB"
+    },
+    {
+      "url": "drive_web&ouid",
+      "title": "Northeastern First Response",
+      "end_at": "2021-12-15 00:00:00",
+      "start_at": "2021-09-15 00:00:00",
+      "description": "Tech Stack : Java Swing, DB4OUtil"
+    },
+    {
+      "url": "id.p1?trk",
+      "title": "Social Tracker",
+      "end_at": "2021-05-15 00:00:00",
+      "start_at": "2021-01-15 00:00:00",
+      "description": "Tech Stack : HTML5, CSS3, JavaScript, jQuery, Java(J2EE), MySQL"
+    },
+    {
+      "url": null,
+      "title": "Food Discovery System",
+      "end_at": "2020-12-15 00:00:00",
+      "start_at": "2020-07-15 00:00:00",
+      "description": "Tech Stack : HTML, CSS, jQuery, Java(J2EE), MySQL"
+    }
+  ],
+  "people_also_viewed": [],
+  "section_test_scores": [],
+  "section_publications": [],
+  "card_current_position": null,
+  "section_honors_awards": [],
+  "section_organizations": [],
+  "card_current_education": null,
+  "section_certifications": [
+    {
+      "url": "https://www.linkedin.com/company/theforage",
+      "end_at": null,
+      "start_at": "2024-01-15 00:00:00",
+      "authority": "JPMorgan Chase & Co. - Software Engineering Lite Job Simulation"
+    },
+    {
+      "url": "https://www.linkedin.com/company/hackerrank",
+      "end_at": null,
+      "start_at": "2024-01-15 00:00:00",
+      "authority": "Problem Solving (Basic)"
+    },
+    {
+      "url": "https://www.linkedin.com/company/bindable",
+      "end_at": null,
+      "start_at": "2022-12-15 00:00:00",
+      "authority": "Best Intern Award"
+    },
+    {
+      "url": "https://de.linkedin.com/company/sap",
+      "end_at": null,
+      "start_at": "2021-06-15 00:00:00",
+      "authority": "SAP Certified Technology Associate - SAP HANA 2.0 (SPS04)"
+    },
+    {
+      "url": null,
+      "end_at": null,
+      "start_at": "2018-08-15 00:00:00",
+      "authority": "Introduction to SAP HANA"
+    }
+  ],
+  "section_volunteer_experiences": []
+}
+}
